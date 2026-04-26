@@ -1,0 +1,13 @@
+# Railway Ignore
+node_modules/
+package.json
+package-lock.json
+.git/
+.env
+.env.example
+README.md
+dist/
+public/
+src/
+tsconfig.json
+vite.config.ts

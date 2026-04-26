@@ -1,0 +1,10 @@
+{
+  "name": "insta-discovery-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Python project - Build bypassed'",
+    "dev": "echo 'Python project - Dev bypassed'",
+    "lint": "echo 'No lint defined'"
+  }
+}

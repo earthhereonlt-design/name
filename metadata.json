@@ -1,0 +1,6 @@
+{
+  "name": "Name",
+  "description": "High-performance Instagram username discovery tool written in Python, designed for Railway deployment with a Telegram bot interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
